@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ubaid Ullah</h1>
-<h3 align="center">I am currently a BS student in Computer Science from Pakistan. Alongside my studies, I have also been working as a Flutter developer for the past 6 months. As a cross-platform developer, my focus is on using the Flutter framework to build visually stunning and highly responsive mobile applications for both iOS and Android.</h3>
+<h3 align="center">"Flutter Developer 👨‍💻 | BSCS 🎓 | Seeking New Opportunities 🌟| BLoc, Provider, GetX🚀 |RESTful APIs🌟 | Firebase 🔥"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaidu21&label=Profile%20views&color=0e75b6&style=flat" alt="ubaidu21" /> </p>
 
