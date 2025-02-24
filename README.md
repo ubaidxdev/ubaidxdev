@@ -22,5 +22,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubaidxdev&" alt="ubaidxdev" /></p>
 
-![Ubaid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ubaidxdev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Ubaid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ubaidxdev&theme=github-compact)
 
