@@ -20,7 +20,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ubaidxdev&show_icons=true&locale=en" alt="ubaidxdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubaidxdev&" alt="ubaidxdev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubaidxzango&" alt="ubaidxzango" /></p>
 
-![Ubaid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ubaidxdev&theme=github-compact)
+![Ubaid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ubaidxzango&theme=github-compact)
 
