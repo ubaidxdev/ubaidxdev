@@ -1,26 +1,89 @@
-<h1 align="center">Hi 👋, I'm Ubaid Ullah</h1>
-<h3 align="center">Flutter Developer 👨‍💻 | BSCS 🎓 | Seeking New Opportunities 🌟| BLoc, Provider, GetX🚀 |RESTful APIs🌟 | Firebase 🔥</h3>
+# Hi there 👋, I'm Ubaid Ullah
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaidxdev&label=Profile%20views&color=0e75b6&style=flat" alt="ubaidxdev" /> </p>
+**Flutter Developer | Software Engineer | BSCS**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ubaidxdev" alt="ubaidxdev" /></a> </p>
+I'm a results-driven Flutter developer passionate about building scalable, user-centric mobile applications. With expertise in state management, API integration, and backend services, I deliver high-quality solutions that solve real-world problems.
 
-- 📫 How to reach me **ubaidxdev@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/itz.baid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itz.baid" height="30" width="40" /></a>
- <a href="https://wa.me/923409421345" target="blank"><img align="center" src="https://cdn.pixabay.com/photo/2016/08/27/03/07/whatsapp-1623579_960_720.png" alt="itz.baid" height="30" width="30" /></a>
-</p>
+## 🎯 About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a></p>
+- 🚀 Experienced Flutter developer with strong fundamentals in native Android development
+- 💡 Specialized in BLoC, Provider, and GetX state management patterns
+- 🔗 Proficient in RESTful API design and integration
+- 🔥 Firebase expert (Authentication, Firestore, Cloud Functions, Storage)
+- 📱 Passionate about clean code, architecture patterns, and best practices
+- 🌱 Continuously learning and staying updated with latest technologies
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ubaidxdev&show_icons=true&locale=en&layout=compact" alt="ubaidxdev" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ubaidxdev&show_icons=true&locale=en" alt="ubaidxdev" /></p>
+## 💼 Core Competencies
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ubaidxzango&" alt="ubaidxzango" /></p>
+**Mobile Development**
+- Cross-platform app development with Flutter & Dart
+- Native Android development
+- Responsive UI/UX implementation
+- Performance optimization and debugging
 
-![Ubaid's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ubaidxzango&theme=github-compact)
+**Backend & APIs**
+- RESTful API integration and consumption
+- Firebase ecosystem (Authentication, Realtime Database, Firestore, Cloud Functions)
+- JSON parsing and data serialization
+- API design principles
 
+**State Management**
+- BLoC pattern and flutter_bloc library
+- Provider package
+- GetX framework
+- Clean Architecture implementation
+
+**Development Tools & Practices**
+- Version control (Git/GitHub)
+- Agile methodologies
+- Code review and documentation
+- Unit testing and integration testing
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** Dart, Java, Kotlin, Python
+
+**Frameworks & Libraries:** Flutter, Android Framework, Firebase SDK
+
+**State Management:** BLoC, Provider, GetX, Riverpod
+
+**APIs & Databases:** RESTful APIs, Firebase (Firestore, Realtime DB), SQL
+
+**Development Tools:** Android Studio, VS Code, Git, GitHub, Postman, Firebase Console
+
+---
+
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ubaidxdev&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=ubaidxdev&layout=compact&theme=github_dark&hide_border=true)
+
+---
+
+## 🔗 Let's Connect
+
+I'm always open to collaborating on interesting projects and discussing innovative solutions.
+
+- 💼 **Email:** ubaidxdev@gmail.com
+- 📱 **WhatsApp:** [Chat with me](https://wa.me/923409421345)
+- 👤 **Facebook:** [Connect on Facebook](https://fb.com/itz.baid)
+- 🐙 **GitHub:** [@ubaidxdev](https://github.com/ubaidxdev)
+
+---
+
+## 💭 Philosophy
+
+> "Code is read much more often than it is written. Write code that others can understand, and you'll write better code."
+
+I believe in writing clean, maintainable code and creating applications that genuinely improve user experience. Every line of code tells a story—make sure yours is worth reading.
+
+---
+
+**Last Updated:** August 2026
