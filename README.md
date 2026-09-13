@@ -142,15 +142,6 @@ Building and architecting intelligent software systems that solve meaningful pro
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ubaidxdev&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ubaidxdev&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 🌍 Let's Build Something Useful
 
 I'm interested in:
